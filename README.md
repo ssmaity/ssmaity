@@ -1,5 +1,5 @@
 # Samriddhi Sankar Maity
-###### Senior Research Fellow, Joint Astronomy Programme, Indian Institute of Science & Indian Institute of Astrophysics
+###### Senior Research Fellow in Joint Astronomy Programme at Indian Institute of Science & Indian Institute of Astrophysics
 
 #### :man: About Me
 My primary focus lies in the study of solar coronal mass ejections (CMEs), events characterized by the expulsion of magnetic fields and accompanying plasma from the solar corona. These phenomena exert a substantial influence on space weather, impacting various aspects of conditions around Earth. 
